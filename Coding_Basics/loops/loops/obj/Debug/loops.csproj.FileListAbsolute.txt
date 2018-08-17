@@ -1,0 +1,6 @@
+c:\users\cwuydts\source\repos\loops\loops\bin\Debug\loops.exe.config
+c:\users\cwuydts\source\repos\loops\loops\bin\Debug\loops.exe
+c:\users\cwuydts\source\repos\loops\loops\bin\Debug\loops.pdb
+c:\users\cwuydts\source\repos\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+c:\users\cwuydts\source\repos\loops\loops\obj\Debug\loops.exe
+c:\users\cwuydts\source\repos\loops\loops\obj\Debug\loops.pdb
