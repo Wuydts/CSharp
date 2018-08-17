@@ -1,0 +1,15 @@
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\bin\Debug\WPF - INotifyPropertyChanges.exe.config
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\bin\Debug\WPF - INotifyPropertyChanges.exe
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\bin\Debug\WPF - INotifyPropertyChanges.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\App.g.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges_MarkupCompile.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges_MarkupCompile.lref
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\MainWindow.baml
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges.g.resources
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF___INotifyPropertyChanges.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges.csproj.GenerateResource.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges.exe
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF - INotifyPropertyChanges\WPF - INotifyPropertyChanges\obj\Debug\WPF - INotifyPropertyChanges.pdb
