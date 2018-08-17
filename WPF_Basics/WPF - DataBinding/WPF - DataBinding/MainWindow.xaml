@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPF___DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF___DataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <!--
+           4 Modes of Data Binding
+    1) Binding Target: <- One Way Binding Source
+    2) Binding Target: <- Two Way -> Binding Source
+    3) Binding Target: One Way To Source -> Binding Source
+    4) Binding Target: <_ _ _ One Time Binding SOurce (Done in constructor so this only happens once during initialization)
+    
+    Now we can just change the "Mode" To change its behavior or we can change the code behind to change its initilization value.
+    -->
+   
+    <StackPanel>
+        <!-- Text Box is the target-->
+        <TextBox Name ="textboxName" Width="100" Margin="50"  Text="{Binding ElementName=sliderName, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <!-- Slider is the binding source-->
+        <Slider IsSnapToTickEnabled="True" Name="sliderName" Minimum="1" Maximum="100"></Slider>
+    </StackPanel>
+</Window>
