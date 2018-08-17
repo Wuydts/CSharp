@@ -1,0 +1,7 @@
+c:\users\cwuydts\source\repos\Properties\Properties\bin\Debug\Properties.exe.config
+c:\users\cwuydts\source\repos\Properties\Properties\bin\Debug\Properties.exe
+c:\users\cwuydts\source\repos\Properties\Properties\bin\Debug\Properties.pdb
+c:\users\cwuydts\source\repos\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+c:\users\cwuydts\source\repos\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+c:\users\cwuydts\source\repos\Properties\Properties\obj\Debug\Properties.exe
+c:\users\cwuydts\source\repos\Properties\Properties\obj\Debug\Properties.pdb

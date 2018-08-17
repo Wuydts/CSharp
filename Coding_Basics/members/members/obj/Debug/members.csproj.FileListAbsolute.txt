@@ -1,0 +1,7 @@
+c:\users\cwuydts\source\repos\members\members\bin\Debug\members.exe.config
+c:\users\cwuydts\source\repos\members\members\bin\Debug\members.exe
+c:\users\cwuydts\source\repos\members\members\bin\Debug\members.pdb
+c:\users\cwuydts\source\repos\members\members\obj\Debug\members.csprojAssemblyReference.cache
+c:\users\cwuydts\source\repos\members\members\obj\Debug\members.csproj.CoreCompileInputs.cache
+c:\users\cwuydts\source\repos\members\members\obj\Debug\members.exe
+c:\users\cwuydts\source\repos\members\members\obj\Debug\members.pdb
