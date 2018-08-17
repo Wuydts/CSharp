@@ -1,0 +1,10 @@
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\bin\Debug\netcoreapp2.0\Nullables.deps.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\bin\Debug\netcoreapp2.0\Nullables.runtimeconfig.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\bin\Debug\netcoreapp2.0\Nullables.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\bin\Debug\netcoreapp2.0\Nullables.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\bin\Debug\netcoreapp2.0\Nullables.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\obj\Debug\netcoreapp2.0\Nullables.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\obj\Debug\netcoreapp2.0\Nullables.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\obj\Debug\netcoreapp2.0\Nullables.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\obj\Debug\netcoreapp2.0\Nullables.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Nullables\Nullables\obj\Debug\netcoreapp2.0\Nullables.pdb

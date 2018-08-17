@@ -1,0 +1,11 @@
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.deps.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.runtimeconfig.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.pdb
