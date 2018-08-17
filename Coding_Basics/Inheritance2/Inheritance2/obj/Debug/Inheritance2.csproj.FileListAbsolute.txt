@@ -1,0 +1,6 @@
+C:\Users\cwuydts\source\repos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Users\cwuydts\source\repos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Users\cwuydts\source\repos\Inheritance2\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Users\cwuydts\source\repos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\cwuydts\source\repos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Users\cwuydts\source\repos\Inheritance2\Inheritance2\obj\Debug\Inheritance2.pdb

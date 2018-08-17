@@ -1,0 +1,14 @@
+c:\users\cwuydts\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\cwuydts\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+c:\users\cwuydts\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\cwuydts\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+c:\users\cwuydts\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+c:\users\cwuydts\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+c:\users\cwuydts\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\Christopher\Desktop\CSharp_Basics-master\CSharp_Basics\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Christopher\Desktop\CSharp_Basics-master\CSharp_Basics\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Christopher\Desktop\CSharp_Basics-master\CSharp_Basics\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Christopher\Desktop\CSharp_Basics-master\CSharp_Basics\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\CSharp_Basics-master\CSharp_Basics\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\CSharp_Basics-master\CSharp_Basics\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Christopher\Desktop\CSharp_Basics-master\CSharp_Basics\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
