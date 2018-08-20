@@ -1,0 +1,15 @@
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\bin\Debug\WPF - Property Data and Event Triggers.exe.config
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\bin\Debug\WPF - Property Data and Event Triggers.exe
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\bin\Debug\WPF - Property Data and Event Triggers.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\App.g.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers_MarkupCompile.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers_MarkupCompile.lref
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\MainWindow.baml
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers.g.resources
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF___Property_Data_and_Event_Triggers.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers.csproj.GenerateResource.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers.exe
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\WPF_Basics\WPF - Property Data and Event Triggers\WPF - Property Data and Event Triggers\obj\Debug\WPF - Property Data and Event Triggers.pdb
