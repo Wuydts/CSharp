@@ -1,4 +1,4 @@
-#Collection of programming samples from when I was learning c#
+Collection of programming samples from when I was learning c#
 
 ## Project Listings:
 
