@@ -17,6 +17,13 @@ Collection of programming samples from when I was learning c#
 | Nullables | [Nullables Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/Nullables) |
 | Regular Expressions | [Regular Expressions Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/RegularExpressions) |
 
-
+## WPF Basics Directory
+| Project | Directory | 
+| - | - |
+|  DataBinding | [DataBinding Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20DataBinding)|
+|  Events | [Loops Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20Events%20in%20XAML)|
+|  INotify Property Changes | [INotify Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20INotifyPropertyChanges)|
+|  ListBox | [ListBox Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20ListBox)|
+|  Property Data and Event Triggers | [PD & ET Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20Property%20Data%20and%20Event%20Triggers)|
 
 
