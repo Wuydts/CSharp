@@ -7,7 +7,6 @@ Collection of programming samples from when I was learning c#
 ## C# Basics Directory
 | Project | Directory | 
 | - | - |
-
-|  Loops |  [Loops Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/loops)|
+|  Loops | [Loops Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/loops)|
 
 
