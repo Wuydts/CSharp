@@ -1,7 +1,7 @@
 Collection of programming samples from when I was learning c#
 
 ## Project Listings:
-[CSharp_Basics](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics) |
+[C#_Basics](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics) |
 [WPF_Basics](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics) |
 
 | - | - |
