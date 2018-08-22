@@ -32,7 +32,7 @@ Collection of programming samples from when I was learning c#
 | Project | Directory | 
 | - | - |
 | Linq Demo | [Linq Demo Directory](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics/FIrst-Linq)|
-| University Manager P1 | [University Manager P1](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics/Linq%20-%20University%20Manager) |
+| University Manager| [University Manager](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics/Linq%20-%20University%20Manager) |
 
 
 
