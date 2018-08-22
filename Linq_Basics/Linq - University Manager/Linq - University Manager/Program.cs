@@ -12,10 +12,13 @@ namespace Linq___University_Manager
         {
 
             UniversityManager um = new UniversityManager();
-            //  um.Majors();
-            //Console.WriteLine("");
-            //  um.Age();
-            //Console.WriteLine("");
+
+            um.StudentAndUniversityNameCollection();
+            /*
+            um.Majors();
+            Console.WriteLine("");
+            um.Age();
+            Console.WriteLine("");
             um.SortStudentsByMajor();
             Console.WriteLine("");
             um.AllStudentsFromDSU();
@@ -33,6 +36,7 @@ namespace Linq___University_Manager
             {
                 Console.WriteLine("Invalid value");
             }
+            */
 
         }
     }

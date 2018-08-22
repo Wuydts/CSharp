@@ -92,6 +92,23 @@ namespace Linq___University_Manager
             }
 
         }
+
+        public void StudentAndUniversityNameCollection()
+        {
+            // fetch all students and their university, order them by their name and put their names in a new object together with the names of their university.
+            var newCollection = from student in students
+                                join university in universities
+                                on student.UniversityId equals university.Id
+                                orderby student.Name
+                                select new { StudentName = student.Name, UniversityName = university.Name };
+
+           
+            Console.WriteLine("New Collection: ");
+            foreach(var col in newCollection)
+            {
+                Console.WriteLine("Student {0} from {1}", col.StudentName, col.UniversityName);
+            }
+        }
         
 
     }
