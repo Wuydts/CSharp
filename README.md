@@ -16,6 +16,7 @@ Collection of programming samples from when I was learning c#
 | Lambda | [Lambda Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/Lambda) |
 | Nullables | [Nullables Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/Nullables) |
 | Regular Expressions | [Regular Expressions Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/RegularExpressions) |
+| Grades | [Grades Directory](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics/Grades) |
 
 ## WPF Basics Directory
 | Project | Directory | 
