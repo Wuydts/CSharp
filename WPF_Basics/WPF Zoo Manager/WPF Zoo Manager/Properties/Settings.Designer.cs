@@ -27,7 +27,7 @@ namespace WPF_Zoo_Manager.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-B5O1R3N\\WUYDTS;Initial Catalog=WuydtsTutorialsDB;Persist Secu" +
-            "rity Info=True;User ID=sa;Password=Cupcakes900")]
+            "rity Info=True;User ID=sa;Password=")]
         public string WuydtsTutorialsDBConnectionString {
             get {
                 return ((string)(this["WuydtsTutorialsDBConnectionString"]));
