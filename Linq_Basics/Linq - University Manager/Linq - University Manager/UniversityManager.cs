@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
+//     https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview
 namespace Linq___University_Manager
 {
     public class UniversityManager 
@@ -52,6 +53,45 @@ namespace Linq___University_Manager
             }
         }
 
+        public void SortStudentsByMajor ()
+        {
+            var sortedMajor = from student in students orderby student.Major select student;
+
+            Console.WriteLine("Students sorted by Major:");
+            foreach(Student student in sortedMajor)
+            {
+                student.Print();
+            }
+        }
+
+        public void AllStudentsFromDSU()
+        {
+            IEnumerable<Student> dsuStudents = from student in students
+                                               join university in universities on student.UniversityId equals university.Id
+                                               where university.Name == "Dakota State University"
+                                               select student;
+
+            Console.WriteLine("Students from Dakota State University");
+            foreach(Student student in dsuStudents)
+            {
+                student.Print();
+            }
+        }
+
+        public void AllStudentsFromThatUniversity(int Id)
+        {
+            IEnumerable<Student> myStudents = from student in students
+                                               join university in universities on student.UniversityId equals university.Id
+                                               where university.Id == Id
+                                               select student;
+
+            Console.WriteLine("Students from: {0}", Id);
+            foreach (Student student in myStudents)
+            {
+                student.Print();
+            }
+
+        }
         
 
     }

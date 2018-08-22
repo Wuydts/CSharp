@@ -8,3 +8,15 @@ C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager\Li
 C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.AssemblyInfo.cs
 C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.dll
 C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\bin\Debug\netcoreapp2.1\Linq - University Manager.deps.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\bin\Debug\netcoreapp2.1\Linq - University Manager.runtimeconfig.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\bin\Debug\netcoreapp2.1\Linq - University Manager.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\bin\Debug\netcoreapp2.1\Linq - University Manager.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\bin\Debug\netcoreapp2.1\Linq - University Manager.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\Linq - University Manager - P2\Linq - University Manager\obj\Debug\netcoreapp2.1\Linq - University Manager.pdb
