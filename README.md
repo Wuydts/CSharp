@@ -2,7 +2,7 @@ Collection of programming samples from when I was learning c#
 
 ## Directory Listings:
 
-[C# Basics](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics) | [WPF Basics](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics) | [Linq Basics](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics) |
+[C# Basics](https://github.com/Wuydts/CSharp/tree/master/Coding_Basics) | [WPF Basics](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics) | [Linq Basics](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics) 
 
 ## C# Basics Directory
 | Project | Directory | 
@@ -26,6 +26,11 @@ Collection of programming samples from when I was learning c#
 |  ListBox | [ListBox Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20ListBox)|
 |  Property Data and Event Triggers | [PD & ET Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20Property%20Data%20and%20Event%20Triggers)|
 |  Zoo Manager Utilizing SQL | [Zoo Manager Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20Zoo%20Manager)|
+
+## Linq Basics Directory
+| Project | Directory | 
+| - | - |
+| Linq Demo | [Linq Demo Directory](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics/FIrst-Linq)|
 
 
 
