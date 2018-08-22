@@ -25,7 +25,7 @@ Collection of programming samples from when I was learning c#
 |  INotify Property Changes | [INotify Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20INotifyPropertyChanges)|
 |  ListBox | [ListBox Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20ListBox)|
 |  Property Data and Event Triggers | [PD & ET Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20-%20Property%20Data%20and%20Event%20Triggers)|
-|  Zoo Manager - Hard Coded SQL Commands | [Zoo Manager Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20Zoo%20Manager)|
+|  Zoo Manager Utilizing SQL | [Zoo Manager Directory](https://github.com/Wuydts/CSharp/tree/master/WPF_Basics/WPF%20Zoo%20Manager)|
 
 
 
