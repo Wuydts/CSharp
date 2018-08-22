@@ -1,0 +1,11 @@
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\bin\Debug\netcoreapp2.1\FIrst-Linq.deps.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\bin\Debug\netcoreapp2.1\FIrst-Linq.runtimeconfig.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\bin\Debug\netcoreapp2.1\FIrst-Linq.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\bin\Debug\netcoreapp2.1\FIrst-Linq.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\bin\Debug\netcoreapp2.1\FIrst-Linq.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\obj\Debug\netcoreapp2.1\FIrst-Linq.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\obj\Debug\netcoreapp2.1\FIrst-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\obj\Debug\netcoreapp2.1\FIrst-Linq.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\obj\Debug\netcoreapp2.1\FIrst-Linq.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\obj\Debug\netcoreapp2.1\FIrst-Linq.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\FIrst-Linq\FIrst-Linq\obj\Debug\netcoreapp2.1\FIrst-Linq.pdb
