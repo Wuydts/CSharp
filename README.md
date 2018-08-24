@@ -33,6 +33,7 @@ Collection of programming samples from when I was learning c#
 | - | - |
 | Linq Demo | [Linq Demo Directory](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics/FIrst-Linq)|
 | University Manager| [University Manager](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics/Linq%20-%20University%20Manager) |
+| Linq With XML| [Linq With XML](https://github.com/Wuydts/CSharp/tree/master/Linq_Basics/LinqWithXML) |
 
 
 
