@@ -1,0 +1,11 @@
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\bin\Debug\netcoreapp2.1\LinqWithXML.deps.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\bin\Debug\netcoreapp2.1\LinqWithXML.runtimeconfig.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\bin\Debug\netcoreapp2.1\LinqWithXML.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\bin\Debug\netcoreapp2.1\LinqWithXML.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\bin\Debug\netcoreapp2.1\LinqWithXML.pdb
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\obj\Debug\netcoreapp2.1\LinqWithXML.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\obj\Debug\netcoreapp2.1\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\obj\Debug\netcoreapp2.1\LinqWithXML.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\obj\Debug\netcoreapp2.1\LinqWithXML.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\obj\Debug\netcoreapp2.1\LinqWithXML.dll
+C:\Users\Christopher\Desktop\Cs_OnlineProjects\Linq\LinqWithXML\LinqWithXML\obj\Debug\netcoreapp2.1\LinqWithXML.pdb
